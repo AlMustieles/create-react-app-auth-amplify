@@ -31,7 +31,10 @@
         "Requires Symbols"
     ],
     "requiredAttributes": [
-        "email"
+        "email",
+        "wholesaler",
+        "retailer",
+        "branch"
     ],
     "userpoolClientName": "cognitocf0c6096_app_client",
     "userpoolClientGenerateSecret": true,
